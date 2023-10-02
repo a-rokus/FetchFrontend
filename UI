@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Favorite Dog Breed</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Select Dog Breeds</h1>
+    <div id="breedCheckboxes">
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
